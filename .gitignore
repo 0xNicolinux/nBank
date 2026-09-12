@@ -1,5 +1,8 @@
-# Compiled class file
+out/
 *.class
+.vscode/
+
+# Compiled class file
 
 # Log file
 *.log
